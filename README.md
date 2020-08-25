@@ -1,3 +1,12 @@
+# Netflix Clone with React.js and Firebase
+
+### ----> [Live Site](https://netflix-clone-e56c1.web.app/)
+
+![NetflixClone](assets/netfliximage1.png)
+
+![NetflixClone](assets/netfliximage2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
